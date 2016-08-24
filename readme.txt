@@ -10,7 +10,7 @@ http://localhost:8081/helloworld/rest/user/test   查询
 http://localhost:8081/helloworld/rest/user/add    新增
 
 3.
-数据库的连接信息都在applicationContext.xml 中进行修改；
+数据库的连接信息都在applicationContext.xml 中进行修改 ；
 
 4.数据库建表语句：
     CREATE TABLE `tb_user` (
